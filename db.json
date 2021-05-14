@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "sado babo",
+      "age": 25,
+      "projectId": "1"
+    },
+    {
+      "id": 2,
+      "name": "laro babo",
+      "age": 31,
+      "projectId": "2"
+    },
+    {
+      "id": 3,
+      "name": "sado dayı",
+      "age": 35,
+      "projectId": "3"
+    },
+    {
+      "id": 4,
+      "name": "laro dayı",
+      "age": 32,
+      "projectId": "4"
+    },
+    {
+      "id": 5,
+      "name": "taco dayı",
+      "age": 38,
+      "projectId": "4"
+    },
+    {
+      "name": "sado babo",
+      "age": 25,
+      "projectId": "1",
+      "id": 6
+    },
+    {
+      "name": "new user",
+      "age": 31,
+      "projectId": "6",
+      "id": 7
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "ReactJS",
+      "description": "Deneme 1 2 3"
+    },
+    {
+      "id": 2,
+      "title": "NodeJS",
+      "description": "Deneme 1 2 4"
+    },
+    {
+      "id": 3,
+      "title": "Redux",
+      "description": "Deneme 1 2 5"
+    },
+    {
+      "id": 4,
+      "title": "NextJS",
+      "description": "Deneme 1 2 6"
+    },
+    {
+      "id": 5,
+      "title": "JS",
+      "description": "Deneme 1 2 7"
+    },
+    {
+      "id": 6,
+      "title": "JS Deneme",
+      "description": "Deneme 1 2 8"
+    }
+  ]
+}
